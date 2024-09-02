@@ -1027,6 +1027,70 @@
             "decimals": 18,
             "address": "0xADF73ebA3Ebaa7254E859549A44c74eF7cff7501",
             "logoURI": "https://raw.githubusercontent.com/FunctionX-SG/MarginX-TokenList/main/Tokens/0xADF73ebA3Ebaa7254E859549A44c74eF7cff7501/logo-zeta.png"
+        },
+        {
+            "name": "USD Coin",
+            "chainId": 1,
+            "symbol": "USDC",
+            "decimals": 6,
+            "address": "0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48",
+            "logoURI": "https://raw.githubusercontent.com/FunctionX-SG/MarginX-TokenList/main/Tokens/0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48/logo-eth.png"
+        },
+        {
+            "name": "USD Coin",
+            "chainId": 56,
+            "symbol": "USDC",
+            "decimals": 18,
+            "address": "0x8ac76a51cc950d9822d68b83fe1ad97b32cd580d",
+            "logoURI": "https://raw.githubusercontent.com/FunctionX-SG/MarginX-TokenList/main/Tokens/0x8ac76a51cc950d9822d68b83fe1ad97b32cd580d/logo-bsc.png"
+        },
+        {
+            "name": "USD Coin",
+            "chainId": 137,
+            "symbol": "USDC",
+            "decimals": 6,
+            "address": "0x3c499c542cef5e3811e1192ce70d8cc03d5c3359",
+            "logoURI": "https://raw.githubusercontent.com/FunctionX-SG/MarginX-TokenList/main/Tokens/0x3c499c542cef5e3811e1192ce70d8cc03d5c3359/logo-pol.png"
+        },
+        {
+            "name": "USD Coin",
+            "chainId": 97,
+            "symbol": "USDC",
+            "decimals": 18,
+            "address": "0x64544969ed7EBf5f083679233325356EbE738930",
+            "logoURI": "https://raw.githubusercontent.com/FunctionX-SG/MarginX-TokenList/main/Tokens/0x64544969ed7EBf5f083679233325356EbE738930/logo-bsctest.png"
+        },
+        {
+            "name": "Dai Stablecoin",
+            "chainId": 1,
+            "symbol": "DAI",
+            "decimals": 18,
+            "address": "0x6b175474e89094c44da98b954eedeac495271d0f",
+            "logoURI": "https://raw.githubusercontent.com/FunctionX-SG/MarginX-TokenList/main/Tokens/0x6b175474e89094c44da98b954eedeac495271d0f/logo-eth.png"
+        },
+        {
+            "name": "Tether USD",
+            "chainId": 56,
+            "symbol": "USDT",
+            "decimals": 18,
+            "address": "0x55d398326f99059ff775485246999027b3197955",
+            "logoURI": "https://raw.githubusercontent.com/FunctionX-SG/MarginX-TokenList/main/Tokens/0x55d398326f99059ff775485246999027b3197955/logo-bsc.png"
+        },
+        {
+            "name": "Tether USD",
+            "chainId": 1,
+            "symbol": "USDT",
+            "decimals": 6,
+            "address": "0xdac17f958d2ee523a2206206994597c13d831ec7",
+            "logoURI": "https://raw.githubusercontent.com/FunctionX-SG/MarginX-TokenList/main/Tokens/0xdac17f958d2ee523a2206206994597c13d831ec7/logo-eth.png"
+        },
+        {
+            "name": "Tether USD",
+            "chainId": 137,
+            "symbol": "USDT",
+            "decimals": 6,
+            "address": "0xc2132d05d31c914a87c6611c10748aeb04b58e8f",
+            "logoURI": "https://raw.githubusercontent.com/FunctionX-SG/MarginX-TokenList/main/Tokens/0xc2132d05d31c914a87c6611c10748aeb04b58e8f/logo-pol.png"
         }
     ]
   }
