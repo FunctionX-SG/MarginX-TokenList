@@ -957,6 +957,14 @@
             "logoURI": "https://raw.githubusercontent.com/FunctionX-SG/MarginX-TokenList/main/Tokens/0xd97B1de3619ed2c6BEb3860147E30cA8A7dC9891/logo-zeta.png"
         },
         {
+            "name": "Ether",
+            "chainId": 7001,
+            "symbol": "ETH.BASESEPOLIA",
+            "decimals": 18,
+            "address": "0x236b0DE675cC8F46AE186897fCCeFe3370C9eDeD",
+            "logoURI": "https://raw.githubusercontent.com/FunctionX-SG/MarginX-TokenList/main/Tokens/0x236b0DE675cC8F46AE186897fCCeFe3370C9eDeD/logo-athens.png"
+        },
+        {
             "name": "Binance Coin",
             "chainId": 7000,
             "symbol": "BNB.BSC",
